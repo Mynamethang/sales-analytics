@@ -14,6 +14,6 @@ The Spotify Data Pipeline (ETL) Project Using Python and  AWS cloud services to 
 
 ## Snowflake Schema
 
-<img src="schema.png" width=700>
+<img src="data/snowflakeschema.png" width=700>
 
 
