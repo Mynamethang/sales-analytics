@@ -1,7 +1,7 @@
-# Spotify Data Pipeline (ETL) Project Using Python
+# Sales analytics Projects
 
 ## Project Description:
-The Spotify Data Pipeline (ETL) Project Using Python and  AWS cloud services to automate the extraction, transformation, and loading (ETL) process of Spotify API data. This project transforms raw data from the Spotify API into a structured and query-ready dataset, enabling insightful data analysis and visualization.
+
 
  ** Using Pyspark to extract dataset from local storage.
  
