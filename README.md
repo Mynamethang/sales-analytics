@@ -17,6 +17,10 @@ The Spotify Data Pipeline (ETL) Project Using Python and  AWS cloud services to 
 ## Project Architecure
 <img src="etl.png" width=700>
 
+## Transformed file stored in hdfs storage
+
+<img src="hdfs.png" width=700>
+
 ## Snowflake Schema
 
 <img src="data/snowflakeschema.png" width=700>
