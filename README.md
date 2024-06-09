@@ -5,24 +5,29 @@
 
  ** Using Pyspark to extract dataset from local storage.
  
- ** Perform transformation to validate the correct format of data and change csv format to parquet format.
+ ** Utilize ERD features in PostgerSQL to desgin a snowflake schema which is suitable for data.
  
- ** Use features of HDFS to store the large transformed dataset.
+ ** Perform 3 statges of data transformation to clean data, correct datatype and make suitable format for the schema.
+
+ ** Save the files in parquet format on Hadoop HDFS.
  
- ** Perform data warehousing on PostgerSQL to store transformed data.
- 
- ** Load the data into data warehouse for further usage.
+ ** Load the completely transformed data from HDFS into data warehouse for further usage.
+
 
 
 ## Project Architecure
 <img src="etl.png" width=700>
 
-## Transformed file stored in hdfs storage
-
-<img src="hdfs.png" width=700>
-
 ## Snowflake Schema
 
 <img src="data/snowflakeschema.png" width=700>
+
+## Transformed file stored on HDFS storage
+
+<img src="hdfs.png" width=700>
+
+## Compleltely transformed file stored om HDFS storage
+
+<img src="comletely-transformed-data.png" width=700>
 
 
