@@ -22,7 +22,7 @@
 
 ## Snowflake Schema
 
-<img src="img/snowflake-chema.png" width=700>
+<img src="img/snowflake-schema.png" width=700>
 
 ## Transformed file stored on HDFS storage
 
