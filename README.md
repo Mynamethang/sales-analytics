@@ -18,18 +18,18 @@
 
 
 ## Project Architecure
-<img src="etl.png" width=700>
+<img src="img/etl.png" width=700>
 
 ## Snowflake Schema
 
-<img src="data/snowflakeschema.png" width=700>
+<img src="img/snowflakeschema.png" width=700>
 
 ## Transformed file stored on HDFS storage
 
-<img src="hdfs.png" width=700>
+<img src="img/transformed-files.png" width=700>
 
 ## Compleltely transformed file stored om HDFS storage
 
-<img src="completely-transformed-files.png" width=700>
+<img src="img/completely-transformed-files.png" width=700>
 
 
