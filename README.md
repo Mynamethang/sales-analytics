@@ -30,6 +30,6 @@
 
 ## Compleltely transformed file stored om HDFS storage
 
-<img src="comletely-transformed-files.png" width=700>
+<img src="completely-transformed-files.png" width=700>
 
 
