@@ -5,11 +5,11 @@
 
  ** Using Pyspark to extract dataset from local storage.
 
- ** Analyze data in files and plan a suitable data pipeline and storage.
+ ** Analyze the extracted data and plan a suitable schema for an efficient storage.
  
  ** Utilize ERD features in PostgerSQL to desgin a suitable snowflake schema.
  
- ** Perform 3 statges of data transformation to clean data, correct datatype and make suitable format for the schema.
+ ** Perform statges of data transformation to clean, correct datatype and format the data to  the schema.
 
  ** Save the files in parquet format on Hadoop HDFS.
  
