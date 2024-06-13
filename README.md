@@ -3,17 +3,17 @@
 ## Project Description:
 
 
- **Using Pyspark to extract dataset from local storage.
+ **Using Pyspark to extract dataset from local storage.**
 
- **Analyze the extracted data and plan a suitable schema for an efficient storage.
+ **Analyze the extracted data and plan a suitable schema for an efficient storage.**
  
- **Utilize ERD features in PostgerSQL to desgin a suitable snowflake schema.
+ **Utilize ERD features in PostgerSQL to desgin a suitable snowflake schema.**
  
- **Perform statges of data transformation to clean, correct datatype and format the data to  the schema.
+ **Perform statges of data transformation to clean, correct datatype and format the data to  the schema.**
 
- **Save the files in parquet format on Hadoop HDFS.
+ **Save the files in parquet format on Hadoop HDFS.**
  
- **Load the completely transformed data from HDFS into data warehouse for further usage.
+ **Load the completely transformed data from HDFS into data warehouse for further usage.**
 
 
 
